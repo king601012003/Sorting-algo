@@ -2,8 +2,10 @@
 use python to implement insertion sort, selection sort, bubble sort, quick sort, merge sort
 
 ## Detail
-sort function return result and procedure
+sort function return result and procedure.
+
 In main function, there are comments for using "action" and "algo".
+
 Furthermore, each "action" can edit the range and size of testing samples.
 
 ## Time Complexity
